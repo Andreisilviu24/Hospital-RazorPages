@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Spitalix
+build_property.RootNamespace = Spitalix
+build_property.ProjectDir = D:\Facultate cursact\Anul III\BD\Spital\Spitalix\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Facultate cursact\Anul III\BD\Spital\Spitalix
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Fise/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlzZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Medicamente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNhbWVudGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Medici/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Medici/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Medici/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Medici/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVkaWNpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Pacienti/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Pacienti/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Pacienti/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Pacienti/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Prescriptii/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlc2NyaXB0aWlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Prescriptii_si_Pacienti/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlc2NyaXB0aWlfc2lfUGFjaWVudGlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Sectii/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VjdGlpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate cursact/Anul III/BD/Spital/Spitalix/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8r983h55hd

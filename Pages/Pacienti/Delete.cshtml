@@ -1,0 +1,27 @@
+﻿@page
+@using System.Data.SqlClient;
+
+@{
+    String errorMessage = "";
+    try
+    {
+        String id = Request.Query["id"];
+
+        String connectionString = "Data Source=SILVIU-ANDREI-S\\SQLEXPRESS;Initial Catalog=Spital;Integrated Security=True";
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Open();
+            String sql = "DELETE FROM Pacienti WHERE Pacienti.PacientID=@id";
+            using (SqlCommand command = new SqlCommand(sql, connection))
+            {
+                command.Parameters.AddWithValue("@id", id);
+                command.ExecuteNonQuery();
+            }
+        }
+    }
+    catch(Exception ex)
+    {
+    }
+
+    Response.Redirect("/Pacienti/Index");
+}
